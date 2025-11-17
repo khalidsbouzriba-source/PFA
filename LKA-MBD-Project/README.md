@@ -1,4 +1,4 @@
-# Lane Keeping Assist (LKA) System - Model-Based Design
+# Lane Keeping Assist (LKA) System - Model-Based Design.
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-orange.svg)](https://www.mathworks.com/)
 [![Simulink](https://img.shields.io/badge/Simulink-10.8-blue.svg)](https://www.mathworks.com/products/simulink.html)
@@ -234,4 +234,5 @@ For questions or contributions, please open an issue or contact the project team
 ---
 
 **Status**: 🚧 Project in Active Development
+
 
